@@ -1,1 +1,1 @@
-#  CodeMeet — Real-time Code Editor with Video Chat
+#  CodeMeet - Real-time Code Editor with Video Chat
